@@ -3,9 +3,9 @@
   "description": "A small Laravel's wrapper for the PHP UPS API library",
   "keywords": ["laravel", "framework", "UPS", "Laravel UPS Api", "Laravel-Ups-Api", "Pierre Tondereau", "Ptondereau"],
   "require": {
-    "php": ">=5.5.9",
-    "illuminate/contracts": "5.1.* || 5.2.*",
-    "illuminate/support": "5.1.* || 5.2.*",
+    "php": ">=5.5.26",
+    "illuminate/contracts": "5.0.* || 5.2.*",
+    "illuminate/support": "5.0.* || 5.2.*",
     "gabrielbull/ups-api": "^0.7.6"
   },
   "require-dev": {
